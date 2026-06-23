@@ -1,0 +1,7 @@
+about.png: pixiv/5435590
+projects.png: pixiv/146300006
+art1.png: pixiv/78410750
+art2.png: pixiv/137061852
+art3.png: pixiv/93028090
+
+https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/367f5962df0ef69f0a5c8457678dd8a601028036/README.md for inspiration and icons
