@@ -1,4 +1,4 @@
-![moecounter](https://count.getloli.com/@YashRajCodes)
+![moecounter](https://moecount.lolihouse.top/get/@YashRajCodes)
 
 <!--
 **YashRajCodes/YashRajCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
