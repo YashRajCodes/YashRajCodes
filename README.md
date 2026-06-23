@@ -17,9 +17,11 @@
 - 📙 [***YashRajCodes/discord-webhook-proxy***](https://github.com/YashRajCodes/discord-webhook-proxy) <br/>
   A tool to proxy discord webhooks through cloudflare workers, encrypts the webhook and blocks `DELETE` requests.
 
-<br clear="right"/>
+<br/>
 
-<img src="images/art3.png" width="500" /><br/>
+<img src="images/art3.png" width="500" />
+
+<br clear="right"/>
 
 ## Discord
 
