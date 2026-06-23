@@ -1,20 +1,14 @@
-#
-<div>
 <img src="images/art2.png" width="300" align="right" />
-<br/>
-<img src="images/aboutme.png" width="500" />
-<br/>
-<br/>
+<img src="images/about.png" width="500" />
 
 - location: india 🇮🇳
 - languages: ![](./images/icons/py.png) python, ![](./images/icons/js.png) javascript, ![](./images/icons/ts.png) typescript, ![](./images/icons/java.png) java, ![](./images/icons/rust.png) rust
 - i like building things
 
+<br clear="right"/>
+
 <img src="images/art1.png" width="300" align="right" />
-<br/>
 <img src="images/projects.png" width="500" />
-<br/>
-<br/>
 
 - 📘 [***YashRajCodes/wootcord***](https://github.com/YashRajCodes/wootcord) <br/>
   A bridge for chatwoot to discord and vice versa, has a small app that listens to webhooks and queues them in redis/celery and a seperate discord.py worker.
@@ -23,14 +17,13 @@
 - 📙 [***YashRajCodes/discord-webhook-proxy***](https://github.com/YashRajCodes/discord-webhook-proxy) <br/>
   A tool to proxy discord webhooks through cloudflare workers, encrypts the webhook and blocks `DELETE` requests.
 
-<br/>
+<br clear="right"/>
 
 <img src="images/art3.png" width="500" /><br/>
 
-
 ## Discord
 
-<a href="https://discord.com/users/889150838658977874"  align="left">
+<a href="https://discord.com/users/889150838658977874" align="left">
     <img src="https://lanyard.cnrad.dev/api/889150838658977874?bg=ffd4f6&theme=light&hideStatus=true&borderRadius=16px">
 </a>
 
