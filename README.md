@@ -31,10 +31,10 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YashRajCodes/wootcord,YashRajCodes/shard0,YashRajCodes/discord-webhook-proxy&type=Date)](https://star-history.com/#YashRajCodes/wootcord&YashRajCodes/shard0&YashRajCodes/discord-webhook-proxy&Date)
+[![Star History Chart](https://api.star-history.com/chart?repos=YashRajCodes/wootcord%2CYashRajCodes/shard0%2CYashRajCodes/discord-webhook-proxy&type=date&legend=top-left&sealed_token=-345iEmTttjB7glz18xQBB_uCPQ4qqexXvQZtitftAWGUaCLPNHhB8VI6GBHC6DIRP-sOhQTijzxXw2HsVSL4Pic8mg0074xl0ezIyoWrtAgdcYQJN7gTQ)](https://www.star-history.com/?type=date&repos=YashRajCodes%2Fwootcord%2CYashRajCodes%2Fshard0%2CYashRajCodes%2Fdiscord-webhook-proxy)
 
 ## Views
 
 <p align="center">
-  <img src="https://count.nett.moe/get/YashRajCodes/img?theme=moebooru" alt="moecounter" />
+  <img src="https://count.getloli.com/@YashRajCodes?name=YashRajCodes&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=0" alt="moecounter" />
 </p>
